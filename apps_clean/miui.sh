@@ -24,6 +24,6 @@ for delete_dir in $apps_dir ;do
 done
 
 rm -rf $1/data-app/*
-rm -rf $1/priv-app/Browser/*
-rm -rf $1/priv-app/Music/*
-rm -rf $1/app/Mipay/*
+rm -rf $1/priv-app/Browser
+rm -rf $1/priv-app/Music
+rm -rf $1/app/Mipay
