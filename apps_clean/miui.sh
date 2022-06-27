@@ -31,3 +31,13 @@ for delete_dir in $apps_dir ;do
 done
 
 rm -rf $1/data-app/*
+rm -rf $1/priv-app/Browser/*
+rm -rf $1/priv-app/MiuiGallery/*
+rm -rf $1/priv-app/Music/*
+rm -rf $1/priv-app/MiAod/*
+rm -rf $1/app/Mipay/*
+rm -rf $1/app/NextPay
+rm -rf $1/app/HybridPlatfrom/*
+rm -rf $1/priv-app/Mishare/*
+rm -rf $1/priv-app/Backup/*
+rm -rf $1/app/greenguard/*
