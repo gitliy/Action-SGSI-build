@@ -17,6 +17,13 @@ MiuiVideo
 Music
 QuickSearchBox
 talkback
+greenguard
+HybridPlatform
+TSMClient
+NextPay
+Backup
+MiShare
+MiAod
 "
 
 for delete_dir in $apps_dir ;do
