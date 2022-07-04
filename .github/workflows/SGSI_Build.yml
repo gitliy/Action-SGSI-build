@@ -6,15 +6,15 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://download.meizu.com/Firmware/Flyme/meizu17_Pro/9.2.0.3/cn/20220614010617/7ec297c7/update.zip'
+        default: 'https://bigota.d.miui.com/V12.5.9.0.RGICNXM/miui_PICASSO_V12.5.9.0.RGICNXM_f6a8f5350a_11.0.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'update.zip'
+        default: 'miui_PICASSO_V12.5.9.0.RGICNXM_f6a8f5350a_11.0.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
-        default: 'flyme'
+        default: 'miui'
       SGSI_TYPE:
         description: 'SGSI_TYPE(AB, A, or BOTH)'
         required: true
